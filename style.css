@@ -1,0 +1,35 @@
+table  {
+
+    border-style: none;
+    border-collapse:separate;
+    margin: 40px auto;
+    background: orange;
+    width: 100%;
+
+}
+
+th, td {
+
+    border: 0px solid black;
+    padding: 20px;
+    text-align: center;
+    font-family: montserrat;
+}
+
+
+
+
+thead {
+
+    background:orange;
+    color: black;
+    font-size: 20px;
+}
+
+tbody {
+
+    background: rgb(71, 5, 146);
+    color: white;
+    font-size: 20px;
+}
+
